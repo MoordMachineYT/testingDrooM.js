@@ -1,6 +1,6 @@
 {
   "name": "droom.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,8 +18,7 @@
   "homepage": "https://github.com/MoordMachineYT/testingDrooM.js#readme",
   "description": "Testing beta",
   "dependencies": {
-    "eris": "github:abalabahaha/eris",
-    "eslint": "^4.19.1"
+    "eris": "github:abalabahaha/eris"
   },
   "devDependencies": {}
 }
