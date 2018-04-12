@@ -1,0 +1,25 @@
+{
+  "name": "droom.js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoordMachineYT/testingDrooM.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MoordMachineYT/testingDrooM.js/issues"
+  },
+  "homepage": "https://github.com/MoordMachineYT/testingDrooM.js#readme",
+  "description": "Testing beta",
+  "dependencies": {
+    "eris": "github:abalabahaha/eris",
+    "eslint": "^4.19.1"
+  },
+  "devDependencies": {}
+}
